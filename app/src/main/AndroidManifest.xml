@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.teamhalum.shahad.bsmrudiary">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+
+    <application
+        android:name=".BSMRAUDiary"
+        android:allowBackup="true"
+        android:icon="@drawable/logo"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/logo"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".SecondActivity" />
+        <activity android:name=".ContactsDetail" />
+        <activity android:name=".activity_the_uni" />
+        <activity android:name=".mission" />
+        <activity android:name=".adminBodies" />
+        <activity android:name=".syndicate" />
+        <activity android:name=".academicCouncil" />
+        <activity android:name=".about" />
+        <activity android:name=".facilities" />
+        <activity android:name=".Website"></activity>
+    </application>
+
+</manifest>

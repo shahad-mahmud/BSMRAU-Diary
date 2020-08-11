@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@mipmap/ui22"
+    android:orientation="vertical"
+    android:padding="8dp">
+
+    <TextView
+        android:textColor="#000000"
+        android:id="@+id/ContactName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingLeft="6dp"
+        android:paddingRight="6dp"
+        android:paddingTop="6dp"
+        android:text="Name"
+        android:textSize="22sp"
+        android:visibility="gone" />
+
+    <TextView
+        android:textColor="#000000"
+        android:id="@+id/ContactPost"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:paddingLeft="6dp"
+        android:paddingRight="6dp"
+        android:text="Post"
+        android:textSize="17sp"
+        android:visibility="gone" />
+
+
+    <TextView
+        android:textColor="#000000"
+        android:id="@+id/Legend_email"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingLeft="6dp"
+        android:paddingRight="6dp"
+        android:paddingTop="6dp"
+        android:text="Email"
+        android:textSize="12sp"
+        android:visibility="gone" />
+
+    <TextView
+        android:textColor="#000000"
+        android:id="@+id/ContactEmail"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="makeCall"
+        android:paddingBottom="10dp"
+        android:paddingLeft="6dp"
+        android:paddingRight="6dp"
+        android:text="abc@xyz.com"
+        android:textSize="19sp"
+        android:visibility="gone" />
+
+
+    <TextView
+        android:textColor="#000000"
+        android:id="@+id/Legend_OfficeNUm"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingLeft="6dp"
+        android:paddingRight="6dp"
+        android:paddingTop="6dp"
+        android:text="Office Number"
+        android:textSize="12sp"
+        android:visibility="gone" />
+
+    <TextView
+        android:textColor="#000000"
+        android:id="@+id/OfficeNum"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="10dp"
+        android:paddingLeft="6dp"
+        android:paddingRight="6dp"
+        android:text="123456789"
+        android:textSize="19sp"
+        android:visibility="gone" />
+
+
+    <TextView
+        android:textColor="#000000"
+        android:id="@+id/Legend_ResNum"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingLeft="6dp"
+        android:paddingRight="6dp"
+        android:paddingTop="6dp"
+        android:text="Resident Number"
+        android:textSize="12sp"
+        android:visibility="gone" />
+
+    <TextView
+        android:textColor="#000000"
+        android:id="@+id/ResNum"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="10dp"
+        android:paddingLeft="6dp"
+        android:paddingRight="6dp"
+        android:text="sdfsdf"
+        android:textSize="19sp"
+        android:visibility="gone" />
+
+
+    <TextView
+        android:textColor="#000000"
+        android:id="@+id/Legend_Mob1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingLeft="6dp"
+        android:paddingRight="6dp"
+        android:paddingTop="6dp"
+        android:text="Mobile Number"
+        android:textSize="12sp"
+        android:visibility="gone" />
+
+    <TextView
+        android:textColor="#000000"
+        android:id="@+id/Mob1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="10dp"
+        android:paddingLeft="6dp"
+        android:paddingRight="6dp"
+        android:text="21231654"
+        android:textSize="19sp"
+        android:visibility="gone" />
+
+
+    <TextView
+        android:textColor="#000000"
+        android:id="@+id/Legend_Mob2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingLeft="6dp"
+        android:paddingRight="6dp"
+        android:paddingTop="6dp"
+        android:text="Mobile Number"
+        android:textSize="12sp"
+        android:visibility="gone" />
+
+    <TextView
+        android:textColor="#000000"
+        android:id="@+id/Mob2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="10dp"
+        android:paddingLeft="6dp"
+        android:paddingRight="6dp"
+        android:text="5465645249846"
+        android:textSize="19sp"
+        android:visibility="gone" />
+
+</LinearLayout>

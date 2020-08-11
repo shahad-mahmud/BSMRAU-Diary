@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">BSMRAU Diary</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="ataglance">Location : Salna, Gazipur\nTotal Area : 187 acres\nEstablishment : 22 November, 1998\nFaculty : 5\nDepartments : 36\n
+    </string>
+    <string name="mscphd">Agricultural Engineering, Agro-Processing, Anatomy and Histology, Animal Breeding and Genetics, Animal Science and Nutrition, Aquaculture, Bio- Technology, Dairy and Poultry Science, Environmental Science, Fisheries Biology and Aquatic Environment, Fisheries Management, Fisheries Technology, Genetics and Fish Breeding, Gynecology Obstratics and Reproductive Health and Patho-Biology.</string>
+    <string name="fagri">Agricultural Extension  and Rural Development, Agroforestry and Environment,  Agronomy, Agricultural Engineering, Agro-processing,  Bio-Chemistry and Molecular  Biology,  Bio-Technology,  Computer Science  and Information Technology, Crop Botany, Environmental Science,   Entomology, Genetics and Plant Breeding,  Horticulture, Plant  Pathology,  Soil  Science, Seed Science and Technology Unit.</string>
+    <string name="ffish">Aquaculture, Fisheries Biology and Aquatic Environment, Fisheries Management, Fisheries Technology, Genetics and Fish Breeding.</string>
+    <string name="ffv">Animal Breeding and  Genetics, Animal Science and Nutrition, Dairy and Poultry Science, Gynecology, Obstratics and Reproductive Health, Medicine, Micro-biology and Public Health,  Patho-Biology, Physiology and Pharmacology, Surgery and Radiology.</string>
+
+    <string name="fae">Agricultural   Economics,   Agricultural   Finance   and Cooperatives,    Agribusiness,     Rural    Development, Statistics.</string>
+    <string name="theunimore">Student Hall : 4\nTeachers : 193\nOfficers : 92\nEmployees : 246\nTelephone : PABX :9205310-14\nWeb : bsmrau.edu.bd\nFax : 02-9205333, 9205316\nPost Code : 1706.\n</string>
+    <string name="objectives">To serve as a “Center of Excellence” for agricultural education leading to BS, MS and PhD degrees.\nTo provide an education consistent with international standards through well designed academic programmers.\nTo conduct basic and applied research to generate appropriate and sustainable technologies in the different fields of agriculture.\nTo disseminate and transfer generated technologies to the end users through training and outreach activities\nTo provide policy support focusing on local and national issues within the national agricultural research framework with emphasis on food and nutrition securities of the country.\n</string>
+
+
+</resources>

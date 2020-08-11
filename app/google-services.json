@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1023322756680",
+    "firebase_url": "https://contacts-db-panel.firebaseio.com",
+    "project_id": "contacts-db-panel",
+    "storage_bucket": "contacts-db-panel.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1023322756680:android:770d6820d302ccd3",
+        "android_client_info": {
+          "package_name": "com.teamhalum.shahad.bsmrudiary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1023322756680-v523doe3g6vch0gicdjsov4c2il08v9l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXqjiBi6kiDSq13nar-elUQi_YyaWfkaQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

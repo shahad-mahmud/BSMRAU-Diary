@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_theuni"
+            android:icon="@drawable/uni"
+            android:title="The University" />
+        <item
+            android:id="@+id/nav_aboutBsm"
+            android:icon="@drawable/about"
+            android:title="About BSMRAU" />
+
+        <item
+            android:id="@+id/nav_mainsite"
+            android:icon="@drawable/internet"
+            android:title="Visit Website" />
+        <item
+            android:id="@+id/nav_mission"
+            android:icon="@drawable/mission"
+            android:title="Mission and Vission" />
+        <item
+            android:id="@+id/nav_fac"
+            android:icon="@drawable/facilities"
+            android:title="Facilities" />
+
+        <item
+            android:id="@+id/nav_adminbodies"
+            android:icon="@drawable/admin"
+            android:title="Admin Bodies" />
+        <item
+            android:id="@+id/nav_syndicate"
+            android:icon="@drawable/syndicate"
+            android:title="Syndicate" />
+        <item
+            android:id="@+id/nav_academiccouncil"
+            android:icon="@drawable/academiccoun"
+            android:title="Academic Council" />
+    </group>
+
+
+
+</menu>
